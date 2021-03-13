@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93333 270.93334"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="/home/owen/nukesecurity/branding/logo/v1/logo-256.png"
+   inkscape:export-xdpi="24.000002"
+   inkscape:export-ydpi="24.000002">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.46311607"
+     inkscape:cx="358.34508"
+     inkscape:cy="548.744"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1516"
+     inkscape:window-height="876"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="nuke"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path934"
+       style="fill:#005e18;fill-opacity:1;stroke:none;stroke-width:0.414323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80.301842,23.018762 v 40.450699 l 24.763078,29.705813 -19.304861,64.887636 49.706601,0.43538 49.7058,-0.43538 L 165.8676,93.175274 190.63149,63.469461 V 23.018762 h -55.16483 z"
+       inkscape:label="strut" />
+    <ellipse
+       style="fill:#008724;fill-opacity:1;stroke:none;stroke-width:1.09527;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="path928"
+       cx="135.46667"
+       cy="177.37141"
+       rx="51.802155"
+       ry="70.543167"
+       inkscape:label="payload" />
+    <rect
+       style="fill:#008724;fill-opacity:1;stroke:none;stroke-width:1.17446;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="rect992"
+       width="110.32963"
+       height="40.450699"
+       x="80.301849"
+       y="23.018753"
+       inkscape:label="fins" />
+  </g>
+</svg>
